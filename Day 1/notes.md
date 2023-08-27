@@ -5,7 +5,7 @@
 - configure terminal: configurasyon mode'a geçiş
 - exit: bir önceki menü/çıkış
 - end: ctrl-z gibi çalışıyor, configurasyondan doğrudan çıkıp priv shell'e döndürüyor.
-
+- 
 # kısayollar
 
 - crtl z: configurasyon modundan çıkış.
